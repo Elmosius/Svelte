@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Svelte",
+    "content": "Svelte is a frontend framework"
+  },
+  {
+    "id": 2,
+    "title": "React",
+    "content": "React is a frontend framework"
+  }
+]
