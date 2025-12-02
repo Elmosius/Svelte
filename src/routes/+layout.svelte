@@ -27,6 +27,9 @@
 	<li>
 		<a href="/users/dashboard">dashboard user (coba server load parameter)</a>
 	</li>
+	<li>
+		<a href="/navigation">Navigation</a>
+	</li>
 </ul>
 
 {@render children()}
