@@ -1,5 +1,12 @@
 <script>
+	import { onMount } from 'svelte';
+	import { invalidateAll } from '$app/navigation';
+
 	const { data } = $props();
+
+	onMount(() => {
+		invalidateAll();
+	});
 </script>
 
 <h1>
