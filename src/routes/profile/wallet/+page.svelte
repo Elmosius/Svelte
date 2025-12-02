@@ -5,6 +5,10 @@
 <h1>
 	Page Wallet
 </h1>
+
 <p>
-	hello {data.name}!
+	Description: {data.description}
+</p>
+<p>
+	Balance: {data.balance}
 </p>
