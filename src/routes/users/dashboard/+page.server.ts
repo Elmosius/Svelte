@@ -1,0 +1,14 @@
+import { redirect, type RequestEvent } from '@sveltejs/kit';
+
+export const load: RequestEvent = async ({ cookies, url }) => {
+	if (url.searchParams.get('logout')) {
+		cookies.delete('user', { path: '/' });
+		redirect(303, '/users/login');
+	}
+
+	if (!cookies.get('user')) redirect(303, '/users/login');
+
+	return {
+		user: cookies.get('user')
+	};
+};

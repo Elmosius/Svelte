@@ -19,10 +19,13 @@
 		<a href="/profile/user">Profile</a>
 	</li>
 	<li>
-		<a href="/products">Products</a>
+		<a href="/products">Products (fetch)</a>
 	</li>
 	<li>
-		<a href="/todos">Todos</a>
+		<a href="/todos">Todos (client load vs server load func)</a>
+	</li>
+	<li>
+		<a href="/users/dashboard">dashboard user (coba server load parameter)</a>
 	</li>
 </ul>
 
