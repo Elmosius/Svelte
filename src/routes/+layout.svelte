@@ -21,6 +21,9 @@
 	<li>
 		<a href="/products">Products</a>
 	</li>
+	<li>
+		<a href="/todos">Todos</a>
+	</li>
 </ul>
 
 {@render children()}
