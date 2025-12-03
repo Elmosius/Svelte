@@ -10,7 +10,7 @@
 
 <ul>
 	<li>
-		<a href="/">Home</a>
+		<a href="/static">Home</a>
 	</li>
 	<li>
 		<a href="/counter">Counter</a>
