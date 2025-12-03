@@ -1,5 +1,5 @@
 export async function load({ data }) {
 	return {
-		todos: [...data.todos, 'From Client Load Function']
+		todos: [...data.todos, { id: 0, name: 'ini dari client' }]
 	};
 }
