@@ -31,10 +31,10 @@
 		<a href="/navigation">Navigation</a>
 	</li>
 	<li>
-		<a href="/home">Home (Optional Parameter)</a>
+		<a href="/home">Home (Optional Parameter + matchers)</a>
 	</li>
 	<li>
-		<a href="/files/1">Files (Rest Parameter)</a>
+		<a href="/files/1">Files (Rest Parameter + matchers)</a>
 	</li>
 </ul>
 
