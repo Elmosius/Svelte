@@ -13,6 +13,9 @@
 		<a href="/">Home</a>
 	</li>
 	<li>
+		<a href="/home">Home (Optional Parameter)</a>
+	</li>
+	<li>
 		<a href="/counter">Counter</a>
 	</li>
 	<li>
