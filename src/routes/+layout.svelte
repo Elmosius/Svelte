@@ -13,9 +13,6 @@
 		<a href="/">Home</a>
 	</li>
 	<li>
-		<a href="/home">Home (Optional Parameter)</a>
-	</li>
-	<li>
 		<a href="/counter">Counter</a>
 	</li>
 	<li>
@@ -32,6 +29,12 @@
 	</li>
 	<li>
 		<a href="/navigation">Navigation</a>
+	</li>
+	<li>
+		<a href="/home">Home (Optional Parameter)</a>
+	</li>
+	<li>
+		<a href="/files/1">Files (Rest Parameter)</a>
 	</li>
 </ul>
 
