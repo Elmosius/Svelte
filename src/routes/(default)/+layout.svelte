@@ -8,9 +8,9 @@
 	{page.url.pathname}
 </p>
 
-<ul>
+<ul data-sveltekit-preload-data="tap">
 	<li>
-		<a href="/static">Home</a>
+		<a href="/home">Home</a>
 	</li>
 	<li>
 		<a href="/counter">Counter</a>
